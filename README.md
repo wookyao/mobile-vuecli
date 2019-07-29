@@ -3,8 +3,14 @@
 ## Project setup
 ```
 npm install
+```
+or
+```
 cnpm i
-yarn add
+```
+or
+```
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
