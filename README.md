@@ -2,15 +2,7 @@
 
 ## Project setup
 ```
-npm install
-```
-or
-```
-cnpm i
-```
-or
-```
-yarn install
+npm install / cnpm i / yarn install
 ```
 
 ### Compiles and hot-reloads for development
